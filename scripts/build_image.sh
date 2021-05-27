@@ -1,1 +1,1 @@
-docker build -t node_exporter:1.12 .
+docker build -t node-exporter:1.1.2 .
